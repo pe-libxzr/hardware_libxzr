@@ -1,0 +1,4 @@
+service vendor.chgctrl-hal-1-0 /vendor/bin/hw/vendor.libxzr.chgctrl@1.0-service
+    class hal
+    user system
+    group system
